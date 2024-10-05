@@ -7,6 +7,7 @@ import Projects from "./components/Projects/Projects";
 import Productions from "./components/Productions/Productions";
 import Footer from "./components/Footer";
 import Resume from "./components/Resume/ResumeNew";
+import { Analytics } from "@vercel/analytics/react"; // Import do Analytics
 import {
   BrowserRouter as Router,
   Route,
@@ -44,6 +45,7 @@ function App() {
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />
+        <Analytics /> 
       </div>
     </Router>
   );
