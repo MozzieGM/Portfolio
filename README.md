@@ -54,30 +54,3 @@ The page will reload if you make edits.
 
 Open the project folder and navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
-
-
-<div align="center">
-    <h2>Donation 💸</h2>
-    <a href="https://buymeacoffee.com/mozziegm" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.discordapp.com/attachments/852002240049709106/1291583519142838393/default-violet.png?ex=6700a063&is=66ff4ee3&hm=2ffe224174ea45f29f6b9d9433a02767311465893a671947ff3e0e771a713558&" 
-        alt="Buy Me A Coffee" height="60px" width="217px">
-    </a>
-
-
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 40px; margin-top: 20px;">
-        
-
-<div style="text-align: center;">
-            <h2>Donate via Pix 💸</h2>
-            <p>Scan the QR code below:</p>
-            <img src="https://cdn.discordapp.com/attachments/852002240049709106/1292063143647776833/qrcode-pix_1.png?ex=67025f12&is=67010d92&hm=b84ec625826c72a0bf0ead56c53c56699beaa481388310c7564a54dc0b1edffc&" alt="Pix QR Code" width="200px">
-</div>
-
-<div style="text-align: center;">
-            <h2>Donate via Zelle 💸</h2>
-            <p>Scan the QR code below:</p>
-            <img src="https://cdn.discordapp.com/attachments/852002240049709106/1292063143362695232/qrcode-zelle.png?ex=67025f12&is=67010d92&hm=5eb01d2e74f8fb4500037f0d9221b8a7e454dea973d13e0e4885a470b5f620d9&" alt="Zelle QR Code" width="200px">
-        </div>
-</div>
-
-</div>
