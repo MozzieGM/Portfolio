@@ -767,3 +767,19 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+
+.quiz-container {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.quiz-flag {
+  width: 200px;
+  height: auto;
+  margin-bottom: 15px;
+}
+
+.feedback {
+  margin-top: 10px;
+  font-weight: bold;
+}
