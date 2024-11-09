@@ -18,6 +18,17 @@ function Projects() {
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
 
+        <Col md={6} className="project-card">
+            <ProjectCard
+              imgPath={flags_main}
+              isBlog={false}
+              title="Flags"
+              description="A Telegram bot designed to offer interactive button functionalities, providing easy access to log queries, customizable commands, and more."
+              ghLink="https://github.com/MozzieGM/"
+              demoLink="/flags"
+            />
+          </Col>
+          
           <Col md={6} className="project-card">
             <ProjectCard
               imgPath={telegram_button}
