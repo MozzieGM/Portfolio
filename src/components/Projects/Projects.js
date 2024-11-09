@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import hand_detection from "../../Assets/Projects/hand-detection.png";
 import telegram_button from "../../Assets/Projects/telegram_butto.png";
+import flags_main from "../../Assets/Projects/flags-main.png";
 
 function Projects() {
   return (
@@ -23,7 +24,7 @@ function Projects() {
               imgPath={flags_main}
               isBlog={false}
               title="Flags"
-              description="A Telegram bot designed to offer interactive button functionalities, providing easy access to log queries, customizable commands, and more."
+              description="Project designed to stimulate your brain and help you learn about flags in a fun and interactive way."
               ghLink="https://github.com/MozzieGM/"
               demoLink="/flags"
             />
